@@ -1,0 +1,3 @@
+Git is a distributed giversion control system.
+Git is free sofeware.git
+Git is free sofeware under the GPL.
